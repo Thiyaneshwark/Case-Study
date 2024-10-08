@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Ecommerce",
+    "\\Ecommerce.tests",
+    "\\Ecommerce\\bin",
+    "\\Ecommerce\\Dao",
+    "\\Ecommerce\\Exception",
+    "\\Ecommerce\\Main",
+    "\\Ecommerce\\Utility"
+  ],
+  "SelectedNode": "\\Ecommerce.tests\\Class1.cs",
+  "PreviewInSolutionExplorer": false
+}

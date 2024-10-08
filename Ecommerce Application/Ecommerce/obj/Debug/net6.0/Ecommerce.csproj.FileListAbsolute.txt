@@ -1,0 +1,310 @@
+D:\HEXAWARE\coding\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\coding\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+D:\HEXAWARE\coding\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+D:\HEXAWARE\coding\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\coding\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\System.Text.Json.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\HEXAWARE\coding\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.Up2Date
+D:\HEXAWARE\coding\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+D:\HEXAWARE\coding\Application\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+D:\HEXAWARE\coding\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+D:\HEXAWARE\coding\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+D:\HEXAWARE\coding\Application\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
+D:\HEXAWARE\coding\Application\Ecommerce\bin\Debug\net6.0\appsettings.json
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\appsettings.json
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\System.Text.Json.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.Up2Date
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+D:\HEXAWARE\C#\Solution\Application\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\appsettings.json
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\System.Text.Json.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+D:\HEXAWARE\C#\problem\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\problem\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\problem\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+D:\HEXAWARE\C#\problem\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\problem\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.Up2Date
+D:\HEXAWARE\C#\problem\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+D:\HEXAWARE\C#\problem\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+D:\HEXAWARE\C#\problem\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+D:\HEXAWARE\C#\problem\Application\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\appsettings.json
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\System.Text.Json.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.Up2Date
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+D:\HEXAWARE\C#\Project C#\Case study\Application\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\appsettings.json
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\System.Text.Json.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sample-testing\Application\Ecommerce\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Sample-testing\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+D:\Sample-testing\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample-testing\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+D:\Sample-testing\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+D:\Sample-testing\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\Sample-testing\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.Up2Date
+D:\Sample-testing\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+D:\Sample-testing\Application\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+D:\Sample-testing\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+D:\Sample-testing\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+D:\Sample-testing\Application\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\appsettings.json
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\System.Text.Json.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Sample-testing\Application - Copy\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+D:\Sample-testing\Application - Copy\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample-testing\Application - Copy\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+D:\Sample-testing\Application - Copy\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+D:\Sample-testing\Application - Copy\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\Sample-testing\Application - Copy\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.Up2Date
+D:\Sample-testing\Application - Copy\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+D:\Sample-testing\Application - Copy\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+D:\Sample-testing\Application - Copy\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+D:\Sample-testing\Application - Copy\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+D:\Sample-testing\Application - Copy\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
+D:\Sample-testing\Application - Copy\Ecommerce\bin\Debug\net6.0\Spectre.Console.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\appsettings.json
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\Spectre.Console.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\System.Text.Json.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sample-testing\t\Application\Ecommerce\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Sample-testing\t\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+D:\Sample-testing\t\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample-testing\t\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+D:\Sample-testing\t\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+D:\Sample-testing\t\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\Sample-testing\t\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.Up2Date
+D:\Sample-testing\t\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+D:\Sample-testing\t\Application\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+D:\Sample-testing\t\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+D:\Sample-testing\t\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+D:\Sample-testing\t\Application\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\appsettings.json
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\Spectre.Console.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\System.Text.Json.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\trying\Case Study\Application\Ecommerce\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\trying\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+D:\trying\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\trying\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+D:\trying\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+D:\trying\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\trying\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.Up2Date
+D:\trying\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+D:\trying\Case Study\Application\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+D:\trying\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+D:\trying\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+D:\trying\Case Study\Application\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\appsettings.json
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\Spectre.Console.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\System.Text.Json.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+D:\trying\DONE\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\trying\DONE\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+D:\trying\DONE\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+D:\trying\DONE\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\trying\DONE\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.Up2Date
+D:\trying\DONE\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+D:\trying\DONE\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+D:\trying\DONE\Case Study\Application\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+D:\trying\DONE\Case Study\Application\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll

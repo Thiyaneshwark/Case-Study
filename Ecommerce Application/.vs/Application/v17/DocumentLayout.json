@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\trying\\DONE\\Case Study\\Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5271738C-5931-4FAA-9760-0F68C2D44325}|Ecommerce.tests\\Ecommerce.tests.csproj|d:\\trying\\done\\case study\\application\\ecommerce.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5271738C-5931-4FAA-9760-0F68C2D44325}|Ecommerce.tests\\Ecommerce.tests.csproj|solutionrelative:ecommerce.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\main\\ecomapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\main\\ecomapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\dao\\orderprocessorrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\dao\\orderprocessorrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\utility\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\utility\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\utility\\dbpropertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\utility\\dbpropertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\exception\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\exception\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\exception\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\exception\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\exception\\customernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\exception\\customernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\dao\\iorderprocessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\dao\\iorderprocessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|d:\\trying\\done\\case study\\application\\ecommerce\\ecommerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F46DF67-571C-4D43-BDFF-2E11F1B8168F}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\ecommerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Program.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Program.cs",
+              "RelativeToolTip": "Ecommerce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:12:51.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce.tests\\Class1.cs",
+              "RelativeDocumentMoniker": "Ecommerce.tests\\Class1.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce.tests\\Class1.cs",
+              "RelativeToolTip": "Ecommerce.tests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:11:13.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbConnUtil.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Utility\\DbConnUtil.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Utility\\DbConnUtil.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Utility\\DbConnUtil.cs",
+              "RelativeToolTip": "Ecommerce\\Utility\\DbConnUtil.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:51:32.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Model\\Order.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Model\\Order.cs",
+              "RelativeToolTip": "Ecommerce\\Model\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:20:19.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderProcessorRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Dao\\OrderProcessorRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Dao\\OrderProcessorRepositoryImpl.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Dao\\OrderProcessorRepositoryImpl.cs",
+              "RelativeToolTip": "Ecommerce\\Dao\\OrderProcessorRepositoryImpl.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAowL0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:25:52.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EcomApp.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Main\\EcomApp.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Main\\EcomApp.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Main\\EcomApp.cs",
+              "RelativeToolTip": "Ecommerce\\Main\\EcomApp.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:03:06.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBPropertyUtil.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Utility\\DBPropertyUtil.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Utility\\DBPropertyUtil.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Utility\\DBPropertyUtil.cs",
+              "RelativeToolTip": "Ecommerce\\Utility\\DBPropertyUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:52:59.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Model\\Product.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Model\\Product.cs",
+              "RelativeToolTip": "Ecommerce\\Model\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:19:03.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Model\\OrderItem.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Model\\OrderItem.cs",
+              "RelativeToolTip": "Ecommerce\\Model\\OrderItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:20:59.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Model\\Customer.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Model\\Customer.cs",
+              "RelativeToolTip": "Ecommerce\\Model\\Customer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:17:21.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Model\\Cart.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Model\\Cart.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Model\\Cart.cs",
+              "RelativeToolTip": "Ecommerce\\Model\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:19:41.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Exception\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Exception\\ProductNotFoundException.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Exception\\ProductNotFoundException.cs",
+              "RelativeToolTip": "Ecommerce\\Exception\\ProductNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:33:35.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderNotFoundException.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Exception\\OrderNotFoundException.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Exception\\OrderNotFoundException.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Exception\\OrderNotFoundException.cs",
+              "RelativeToolTip": "Ecommerce\\Exception\\OrderNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:33:57.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerNotFoundException.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Exception\\CustomerNotFoundException.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Exception\\CustomerNotFoundException.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Exception\\CustomerNotFoundException.cs",
+              "RelativeToolTip": "Ecommerce\\Exception\\CustomerNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:27:26.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderProcessorRepository.cs",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Dao\\IOrderProcessorRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Dao\\IOrderProcessorRepository.cs",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Dao\\IOrderProcessorRepository.cs",
+              "RelativeToolTip": "Ecommerce\\Dao\\IOrderProcessorRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:23:31.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ecommerce.csproj",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Ecommerce.csproj",
+              "RelativeDocumentMoniker": "Ecommerce\\Ecommerce.csproj",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\Ecommerce.csproj",
+              "RelativeToolTip": "Ecommerce\\Ecommerce.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T08:14:07.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce\\appsettings.json",
+              "ToolTip": "D:\\trying\\DONE\\Case Study\\Application\\Ecommerce\\appsettings.json",
+              "RelativeToolTip": "Ecommerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T08:41:56.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
